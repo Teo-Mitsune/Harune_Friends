@@ -1,4 +1,4 @@
-This mod adds V Liver's “Haneyui Harune”.
+This Mincraft'S mod adds V Liver's “Haneyui Harune”.
 At this stage, you can give Harune three instructions: “free me”, “follow me”, and “wait for me”.
 Please check out her X.
 
